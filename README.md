@@ -1,6 +1,7 @@
 A (quite) complete collection of Mindustry schematics.
 Update frequently & guarantee to serve at least 80% game purposes.
 Special thanks to deSire and proYo.
-update v1.2 (15/02/24):
-  + Escalated the number of schems to 1410
-  + Splitted to 2 directories
+update v1.3 (02/06/24):      // DD/MM/YYYY
+  + Added more schems
+  + Updated some old schems
+  + Cleaned some junks
