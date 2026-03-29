@@ -11,4 +11,4 @@ update v1.4 (05/26/25): must commit because i buy new laptop
   + Cleaned some junks
 
 
-update v1.4 (03/30/26): added some new oc schems
+update v1.5 (03/30/26): added some new oc schems
